@@ -1233,13 +1233,12 @@ header.hero.owl-bg-carousel-yes .owl-theme .owl-controls .owl-page.active span {
 /*  6.2. SECTION - PORTFOLIO
 /*---------------------------------------------------------------------*/
 #portfolio {
-  position: relative;
   z-index: 5;
   background-color: #171717;
 }
 
 #portfolio .section-wrapper > .section-content {
-  padding-bottom: 0px;
+  padding-bottom: 90px;
 }
 
 .portfolio {
@@ -2236,7 +2235,7 @@ button.mfp-arrow:active {
 }
 
 #knowledge .section-wrapper > .section-content {
-  padding-top: 0px;
+  padding-top: 30px;
 }
 
 .bar-chart {
